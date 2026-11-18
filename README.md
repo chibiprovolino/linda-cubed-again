@@ -1,5 +1,7 @@
 # Linda³ Again
 
+> **This fork adds an experimental Kanzenban dialogue add-on.** It ports dialogue from the Saturn release into the v0.95.9 English image. It has had only limited testing. See [kanzenban-dialogue](kanzenban-dialogue/README.md).
+
 V 0.95 - Initial Release
 ------------------------------------------------------------
 
